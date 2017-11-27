@@ -29,6 +29,7 @@ proguard/
 .idea/
 out/
 build/
+bintrayUpload.gradle
 
 .gradle
 production/
